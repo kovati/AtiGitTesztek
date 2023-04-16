@@ -22,5 +22,6 @@ public class TestMain {
     void osztasTest() {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getHanyados(8,4) == 2.0;
+
     }
 }
