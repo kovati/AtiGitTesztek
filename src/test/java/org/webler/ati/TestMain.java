@@ -28,4 +28,9 @@ public class TestMain {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getTeglalapKerulet(8,4) == 24.0;
     }
+    @Test
+    void teruletTest() {
+        Muveletek muvelet = new Muveletek();
+        assert muvelet.getTeglalapTerulet(8,4) == 32.0;
+    }
 }

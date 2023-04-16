@@ -20,4 +20,7 @@ public class Muveletek {
     public int getTeglalapKerulet(int a, int b) {
         return (a+b)*2;
     }
+    public int getTeglalapTerulet(int a, int b) {
+        return a*b;
+    }
 }

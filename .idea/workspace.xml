@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal).">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="Teglalap kerulete hozzadva a mainben">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
