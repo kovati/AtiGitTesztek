@@ -15,4 +15,7 @@ public class Muveletek {
     public int getSzorzat(int a, int b) {
         return a*b;
     }
+    public int getHanyados(int a, int b) {
+        return a/b;
+    }
 }

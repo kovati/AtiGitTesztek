@@ -18,4 +18,9 @@ public class TestMain {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getSzorzat(6,4) == 24.0;
     }
+    @Test
+    void osztasTest() {
+        Muveletek muvelet = new Muveletek();
+        assert muvelet.getHanyados(8,4) == 2.0;
+    }
 }
