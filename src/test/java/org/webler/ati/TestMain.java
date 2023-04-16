@@ -32,5 +32,6 @@ public class TestMain {
     void teruletTest() {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getTeglalapTerulet(8,4) == 32.0;
+
     }
 }

@@ -23,4 +23,5 @@ public class Muveletek {
     public int getTeglalapTerulet(int a, int b) {
         return a*b;
     }
+
 }
