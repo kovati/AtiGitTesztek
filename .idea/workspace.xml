@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="Main-en commit hogy a szorzat bele tudjam mergelni">
+    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="0416new" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681664922565</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bemergeltem az 0416new branchbol az osztast. Kiszedtem a workspace-t a gitbol">
+      <created>1681665740586</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681665740586</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal).">
+      <created>1681666018355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666018355</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +151,8 @@
     <MESSAGE value="Osszeadas megirva" />
     <MESSAGE value="Kivonas megirva uj (0416) brachen" />
     <MESSAGE value="Main-en commit hogy a szorzat bele tudjam mergelni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main-en commit hogy a szorzat bele tudjam mergelni" />
+    <MESSAGE value="bemergeltem az 0416new branchbol az osztast. Kiszedtem a workspace-t a gitbol" />
+    <MESSAGE value="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal)." />
   </component>
 </project>

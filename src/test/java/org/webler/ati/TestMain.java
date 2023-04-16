@@ -22,6 +22,10 @@ public class TestMain {
     void osztasTest() {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getHanyados(8,4) == 2.0;
-
+    }
+    @Test
+    void keruletTest() {
+        Muveletek muvelet = new Muveletek();
+        assert muvelet.getTeglalapKerulet(8,4) == 24.0;
     }
 }
