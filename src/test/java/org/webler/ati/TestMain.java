@@ -2,6 +2,9 @@ package org.webler.ati;
 
 //import org.junit.Test;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class TestMain {
     @Test
     void osszeadasTest() {
@@ -32,6 +35,10 @@ public class TestMain {
     void teruletTest() {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getTeglalapTerulet(8,4) == 32.0;
-
+    }
+    @Test
+    void korKeruletTest() {
+        Muveletek muvelet = new Muveletek();
+        assertEquals(18.849, muvelet.getKorKerulet(3), 0.001);
     }
 }

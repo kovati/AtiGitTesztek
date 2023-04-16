@@ -24,4 +24,8 @@ public class Muveletek {
         return a*b;
     }
 
+    public double getKorKerulet(int r) {
+        return 2*r*Math.PI;
+    }
+
 }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="Teglalap kerulete hozzadva a mainben">
+    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="0416new bemergelve a Teglalap teruletevel a Mainba">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" afterDir="false" />
     </list>
@@ -132,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681666018355</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Main bemergelve a0416newba, majd Teglalap terulete hozzadva a 0416newben">
+      <created>1681666510547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666510547</updated>
+    </task>
+    <task id="LOCAL-00010" summary="0416new bemergelve a Teglalap teruletevel a Mainba">
+      <created>1681666626169</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681666626169</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +168,8 @@
     <MESSAGE value="Main-en commit hogy a szorzat bele tudjam mergelni" />
     <MESSAGE value="bemergeltem az 0416new branchbol az osztast. Kiszedtem a workspace-t a gitbol" />
     <MESSAGE value="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal)." />
+    <MESSAGE value="Main bemergelve a0416newba, majd Teglalap terulete hozzadva a 0416newben" />
+    <MESSAGE value="0416new bemergelve a Teglalap teruletevel a Mainba" />
+    <option name="LAST_COMMIT_MESSAGE" value="0416new bemergelve a Teglalap teruletevel a Mainba" />
   </component>
 </project>
