@@ -13,4 +13,9 @@ public class TestMain {
         Muveletek muvelet = new Muveletek();
         assert muvelet.getKulonbseg(6,4) == 2.0;
     }
+    @Test
+    void szorzasTest() {
+        Muveletek muvelet = new Muveletek();
+        assert muvelet.getSzorzat(6,4) == 24.0;
+    }
 }

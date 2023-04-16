@@ -12,5 +12,7 @@ public class Muveletek {
     public int getKulonbseg(int a, int b) {
         return a-b;
     }
-
+    public int getSzorzat(int a, int b) {
+        return a*b;
+    }
 }
