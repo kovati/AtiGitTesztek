@@ -39,6 +39,11 @@ public class TestMain {
     @Test
     void korKeruletTest() {
         Muveletek muvelet = new Muveletek();
-        assertEquals(18.849, muvelet.getKorKerulet(3), 0.001);
+        assertEquals(18.8495, muvelet.getKorKerulet(3), 0.0001);
+    }
+    @Test
+    void korTeruletTest() {
+        Muveletek muvelet = new Muveletek();
+        assertEquals(5.441, muvelet.getKorTerulet(3), 0.001);
     }
 }
