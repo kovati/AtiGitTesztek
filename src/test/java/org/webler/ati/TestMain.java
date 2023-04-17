@@ -29,21 +29,21 @@ public class TestMain {
     @Test
     void keruletTest() {
         Muveletek muvelet = new Muveletek();
-        assert muvelet.getTeglalapKerulet(8,4) == 24.0;
+        assert muvelet.getTeglalapKerulete(8,4) == 24.0;
     }
     @Test
     void teruletTest() {
         Muveletek muvelet = new Muveletek();
-        assert muvelet.getTeglalapTerulet(8,4) == 32.0;
+        assert muvelet.getTeglalapTerulete(8,4) == 32.0;
     }
     @Test
     void korKeruletTest() {
         Muveletek muvelet = new Muveletek();
-        assertEquals(18.8495, muvelet.getKorKerulet(3), 0.0001);
+        assertEquals(18.8495, muvelet.getKorKerulete(3), 0.0001);
     }
     @Test
     void korTeruletTest() {
         Muveletek muvelet = new Muveletek();
-        assertEquals(5.441, muvelet.getKorTerulet(3), 0.001);
+        assertEquals(5.441, muvelet.getKorTerulete(3), 0.001);
     }
 }

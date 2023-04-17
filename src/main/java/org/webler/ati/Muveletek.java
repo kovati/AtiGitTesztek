@@ -17,17 +17,17 @@ public class Muveletek {
     public int getHanyados(int a, int b) {
         return a/b;
     }
-    public int getTeglalapKerulet(int a, int b) {
+    public int getTeglalapKerulete(int a, int b) {
         return (a+b)*2;
     }
-    public int getTeglalapTerulet(int a, int b) {
+    public int getTeglalapTerulete(int a, int b) {
         return a*b;
     }
 
-    public double getKorKerulet(int r) {
+    public double getKorKerulete(int r) {
         return 2*r*Math.PI;
     }
-    public double getKorTerulet(int r) {
+    public double getKorTerulete(int r) {
         return Math.sqrt(r)*Math.PI;
     }
 }

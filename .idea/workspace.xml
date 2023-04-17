@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="0416new bemergelve a Teglalap teruletevel a Mainba">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" afterDir="false" />
+    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="0416ben javitva a kor kerulete es megirva korterulete.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +20,12 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="0416new" />
+    <option name="BRANCH" value="0416" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0416new" />
+        <entry key="$PROJECT_DIR$" value="0416" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681666626169</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="0416ben javitva a kor kerulete es megirva korterulete.">
+      <created>1681667653510</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681667653510</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +176,7 @@
     <MESSAGE value="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal)." />
     <MESSAGE value="Main bemergelve a0416newba, majd Teglalap terulete hozzadva a 0416newben" />
     <MESSAGE value="0416new bemergelve a Teglalap teruletevel a Mainba" />
-    <option name="LAST_COMMIT_MESSAGE" value="0416new bemergelve a Teglalap teruletevel a Mainba" />
+    <MESSAGE value="0416ben javitva a kor kerulete es megirva korterulete." />
+    <option name="LAST_COMMIT_MESSAGE" value="0416ben javitva a kor kerulete es megirva korterulete." />
   </component>
 </project>
