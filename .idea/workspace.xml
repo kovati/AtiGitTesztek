@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="0416ben javitva a kerulet-&gt;kerulete terulet-&gt;terulete de csak a teglalapnal" />
+    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="0416new bemergelve a Teglalap teruletevel a Mainba">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webler/ati/Muveletek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +21,12 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="main" />
+    <option name="BRANCH" value="0416new" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="0416new" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
