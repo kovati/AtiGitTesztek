@@ -23,8 +23,12 @@ public class Muveletek {
     public int getTeglalapTerulete(int a, int b) {
         return a*b;
     }
-
-
+    public int getNegyzetKerulete(int a) {
+        return a*4;
+    }
+    public int getNegyzetTerulete(int a) {
+        return a*a;
+    }
     public double getKorKerulete(int r) {
         return 2*r*Math.PI;
     }
