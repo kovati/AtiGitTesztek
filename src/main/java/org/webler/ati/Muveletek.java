@@ -25,10 +25,10 @@ public class Muveletek {
     }
 
 
-    public double getKorKerulet(int r) {
+    public double getKorKerulete(int r) {
         return 2*r*Math.PI;
     }
-    public double getKorTerulet(int r) {
+    public double getKorTerulete(int r) {
         return Math.sqrt(r)*Math.PI;
     }
 }
