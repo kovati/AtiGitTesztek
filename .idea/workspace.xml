@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="valami commit">
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/webler/ati/TestMain.java" afterDir="false" />
+    <list default="true" id="54aac60d-08cc-4e8e-8f68-0f0f93fbc5b1" name="Changes" comment="0416-en commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0416new" />
+        <entry key="$PROJECT_DIR$" value="0416" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -101,8 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestMain" />
         <item itemvalue="JUnit.TestMain.negyzetTeruletTest" />
+        <item itemvalue="JUnit.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -185,14 +184,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681666626169</updated>
     </task>
-    <task id="LOCAL-00011" summary="workspace commit">
-      <created>1681754286062</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1681754286062</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,19 +192,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -228,8 +208,6 @@
     <MESSAGE value="Ujra push mert vmiert nem ment fel a Muveletek uj verzioja (az osztassal)." />
     <MESSAGE value="Main bemergelve a0416newba, majd Teglalap terulete hozzadva a 0416newben" />
     <MESSAGE value="0416new bemergelve a Teglalap teruletevel a Mainba" />
-    <MESSAGE value="workspace commit" />
-    <MESSAGE value="valami commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="valami commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="0416new bemergelve a Teglalap teruletevel a Mainba" />
   </component>
 </project>
