@@ -37,6 +37,16 @@ public class TestMain {
         assert muvelet.getTeglalapTerulete(8,4) == 32.0;
     }
     @Test
+    void negyzetKeruletTest() {
+        Muveletek muvelet = new Muveletek();
+        assert muvelet.getNegyzetKerulete(4) == 16.0;
+    }
+    @Test
+    void negyzetTeruletTest() {
+        Muveletek muvelet = new Muveletek();
+        assert muvelet.getNegyzetTerulete(4) == 16.0;
+    }
+    @Test
     void korKeruletTest() {
         Muveletek muvelet = new Muveletek();
         assertEquals(18.8495, muvelet.getKorKerulete(3), 0.0001);
