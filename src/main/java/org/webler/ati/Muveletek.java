@@ -26,6 +26,7 @@ public class Muveletek {
     public int getNegyzetKerulete(int a) {
         return a*4;
     }
+    // komment
     public int getNegyzetTerulete(int a) {
         return a*a;
     }
